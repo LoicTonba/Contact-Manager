@@ -1,0 +1,9 @@
+npm i json-server
+
+json -> database -> db.json
+
+View all Contacts -> GET -> http://localhost:9000/contacts/
+View Single contact -> GET -> http://localhost:9000/contacts/:contactID
+Create a Contact -> POST -> http://localhost:9000/contacts/
+Update a Contact -> PUT -> http://localhost:9000/contacts/:contactID
+Delete a Contact -> DELETE -> http://localhost:9000/contacts/:contactID
